@@ -1,0 +1,31 @@
+{
+    "champions": [
+        {
+            "id": 1,
+            "name": "Garen",
+            "role": "top",
+            "range": "false"
+        },
+        {
+            "id": 2,
+            "name": "Renekton",
+            "role": "top",
+            "range": "false"
+        },
+        {
+            "id": 3,
+            "name": "Aphelios",
+            "role": "bottom",
+            "range": "true"
+        },
+        {
+            "id": 4,
+            "name": "Ashe",
+            "role": "bottom",
+            "range": "true"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
